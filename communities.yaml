@@ -1,6 +1,7 @@
 ###
 ### Argentina
 ###
+
 - name: Python Argentina
   lat: -34.6037
   lng: -58.3816
@@ -25,31 +26,43 @@
 ###
 ### Brazil
 ###
+
 - name: Apythonados - CM
   lat: -5.635240
   lng: -35.420190
   url: https://t.me/joinchat/Kyzkh1cTBOmrKlfHUajsxA
-
-- name: PUG-PB
-  lat: -7.119564
-  lng: -34.8833767
-  url: https://pb.python.org.br
-
-- name: GruPy-RN
-  lat: -5.824935
-  lng: -35.211567
-  url: https://meetup.grupyrn.org
-
-- name: PUG-CE
-  lat: -3.7913486
-  lng: -38.5892419
-  url: http://pylestras.org/
-
+  
+- name: Grupo de Usuários Python do Paraná
+  lat: -25.42778
+  lng: -49.27306
+  url: https://t.me/python_pr
+  
+- name: GruPy-ABC
+  lat: -23.684167
+  lng: -46.506865
+  url: http://grupyabc.org/
+  
 - name: GruPy-Al
   lat: -9.665265
   lng: -35.715124
   url: http://grupyal.blogspot.com/
-
+  
+- name: Grupy Blumenau
+  lat: -26.918940
+  lng: -49.066059
+  url: https://pythonbnu.github.io/
+  
+- name: GruPy-DF
+  lat: -15.7744228
+  lng: -48.0772825
+  url: http://df.python.org.br/
+  logo: https://avatars3.githubusercontent.com/u/7825502?s=200&u=f2970ca8e5335b2338a72d4be314e0ef17bfd86f&v=4
+  
+- name: GruPy-RN
+  lat: -5.824935
+  lng: -35.211567
+  url: https://meetup.grupyrn.org
+  
 - name: GruPy-RP
   lat: -21.176630
   lng: -47.820840
@@ -59,16 +72,51 @@
   lat: -23.550520
   lng: -46.633308
   url: https://www.meetup.com/pt-BR/Grupy-SP/
-
-- name: GruPy-ABC
-  lat: -23.684167
-  lng: -46.506865
-  url: http://grupyabc.org/
+  
+- name: GruPy-SSA
+  lat: -13.0108746
+  lng: -38.4966752
+  url: https://www.meetup.com/pt-BR/Salvador-Python-Meetup/
+  
+- name: PUG-CE
+  lat: -3.7913486
+  lng: -38.5892419
+  url: http://pylestras.org/
+  
+- name: PUG-PB
+  lat: -7.119564
+  lng: -34.8833767
+  url: https://pb.python.org.br
+  
+- name: PUG-PE
+  lat: -8.063169
+  lng: -34.871143
+  url: http://www.pug.pe/
 
 - name: py013
   lat: -23.956290
   lng: -46.326460
   url: https://www.meetup.com/pt-BR/BxPy013/
+  
+- name: Pydata Belo Horizonte
+  lat: -19.924851
+  lng: -43.937731
+  url: https://www.meetup.com/PyData-Belo-Horizonte/
+  
+- name: Pydata Brasília
+  lat: -15.834138
+  lng: -47.919573
+  url: https://www.meetup.com/PyData-Brasilia/
+  
+- name: PyLadies Belo Horizonte
+  lat: -19.8157
+  lng: -43.9542
+  url: https://www.facebook.com/pyladiesbh/
+
+- name: PyLadies Fortaleza
+  lat: -3.732714
+  lng: -38.526997
+  url: https://www.facebook.com/PyLadiesFortaleza/
 
 - name: PyNorte
   lat: -3.131633
@@ -84,72 +132,26 @@
   lat: -27.596910
   lng: -48.549580
   url: http://floripa.sc.python.org.br/
-
-- name: Python-MG
-  lat: -19.912998
-  lng: -43.940933
-  url: https://pythonmg.github.io/
-
-- name: PUG-PE
-  lat: -8.063169
-  lng: -34.871143
-  url: http://www.pug.pe/
-
-- name: GruPy-SSA
-  lat: -13.0108746
-  lng: -38.4966752
-  url: https://www.meetup.com/pt-BR/Salvador-Python-Meetup/
-
+  
 - name: Python Joinville
   lat: -26.304760
   lng: -48.845870
   url: http://python.joinville.br/
-
-- name: GruPy-DF
-  lat: -15.7744228
-  lng: -48.0772825
-  url: http://df.python.org.br/
-  logo: https://avatars3.githubusercontent.com/u/7825502?s=200&u=f2970ca8e5335b2338a72d4be314e0ef17bfd86f&v=4
+  
+- name: Python-MG
+  lat: -19.912998
+  lng: -43.940933
+  url: https://pythonmg.github.io/
 
 - name: PythOnRio
   lat: -22.9094444
   lng: -43.1763889
   url: http://pythonrio.python.org.br
 
-
-- name: PyLadies Belo Horizonte
-  lat: -19.8157
-  lng: -43.9542
-  url: https://www.facebook.com/pyladiesbh/
-
-- name: PyLadies Fortaleza
-  lat: -3.732714
-  lng: -38.526997
-  url: https://www.facebook.com/PyLadiesFortaleza/
-
-- name: Pydata Brasília
-  lat: -15.834138
-  lng: -47.919573
-  url: https://www.meetup.com/PyData-Brasilia/
-
-- name: Pydata Belo Horizonte
-  lat: -19.924851
-  lng: -43.937731
-  url: https://www.meetup.com/PyData-Belo-Horizonte/
-
-- name: Grupy Blumenau
-  lat: -26.918940
-  lng: -49.066059
-  url: https://pythonbnu.github.io/
-
-- name: Grupo de Usuários Python do Paraná
-  lat: -25.42778
-  lng: -49.27306
-  url: https://t.me/python_pr
-
 ###
 ### Canada
 ###
+
 - name: Python Toronto
   lat: 43.653225
   lng: -79.383186
@@ -158,6 +160,7 @@
 ###
 ### Cameroon
 ###
+
 - name: Python Ndere
   lat: 7.416529
   lng: 13.550368
@@ -166,6 +169,7 @@
 ###
 ### Central America
 ###
+
 - name: Python Nicaragua
   lat: 12.0978181
   lng: -86.328501
@@ -174,6 +178,7 @@
 ###
 ### Ecuador
 ###
+
 - name: Python Ecuador
   lat: -1.831239
   lng: -78.183403
@@ -182,6 +187,7 @@
 ###
 ### Ireland
 ###
+
 - name: Python Ireland
   lat: 53.3498
   lng: -6.266155
@@ -190,6 +196,7 @@
 ###
 ### Germany
 ###
+
 - name: Python User Group Freiburg
   lat: 47.993664
   lng: 7.848796
@@ -198,6 +205,7 @@
 ###
 ### Greece
 ###
+
 - name: Python User Group Greece
   lat: 37.983103
   lng: 23.724767
@@ -206,11 +214,6 @@
 ###
 ### India
 ###
-- name: PyDelhi
-  lat: 28.7041
-  lng: 77.1025
-  url: https://www.meetup.com/pydelhi/
-  logo: https://avatars1.githubusercontent.com/u/7951742?s=200&v=4
 
 - name: ChennaiPy
   lat: 13.0827
@@ -218,9 +221,16 @@
   url: https://www.meetup.com/chennaipy/
   logo: https://pbs.twimg.com/profile_images/826103316643975169/Sa_ZKNtb_400x400.jpg
 
+- name: PyDelhi
+  lat: 28.7041
+  lng: 77.1025
+  url: https://www.meetup.com/pydelhi/
+  logo: https://avatars1.githubusercontent.com/u/7951742?s=200&v=4
+
 ###
 ### Mauritius
 ###
+
 - name: Python Mauritius User Group (PYMUG)
   lat: -20.294079
   lng: 57.490768
@@ -230,6 +240,7 @@
 ###
 ### Nigeria
 ###
+
 - name: Python Nigeria
   lat: 9.0820
   lng: 8.6753
@@ -263,6 +274,7 @@
 ###
 ### South Africa
 ###
+
 - name: Cape Town Python User Group (CTPUG)
   lat: -33.924870
   lng: 18.424055
@@ -281,6 +293,7 @@
 ###
 ### United States
 ###
+
 - name: The Austin Python Meetup
   lat: 30.2688755
   lng: -97.7405641
@@ -369,6 +382,7 @@
 ###
 ### Cuba
 ###
+
 - name: Python Cuba
   lat: 20.888466
   lng: -76.204596
@@ -377,6 +391,7 @@
 ###
 ### Benin
 ###
+
 - name: Python Benin
   lat: 6.379448
   lng: 2.451324
@@ -385,6 +400,7 @@
 ###
 ### Venezuela
 ###
+
 - name: Fundacion Python de Venezuela
   lat: 8.422952
   lng: -66.983880
@@ -393,6 +409,7 @@
 ###
 ### Portugal
 ###
+
 - name: Python Porto
   lat: 41.1579
   lng: -8.6291
